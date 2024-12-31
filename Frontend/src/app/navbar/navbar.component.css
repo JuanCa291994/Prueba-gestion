@@ -6,5 +6,7 @@
     left: 4.8%;
     border-radius: 28px !important;
     position: relative;
+    float: left;
+    margin-right: calc(0.0157894737 * 100%);
 
 }
