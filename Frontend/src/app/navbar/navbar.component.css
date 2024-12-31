@@ -1,3 +1,10 @@
-.navbar{
-    background-color:#14599A !important ;
+#navbar{
+    width: calc(0.2369186047 * 100%) !important;
+    height: calc(0.9473684211 * 100%)!important;
+    background-color: #FFFFFF !important;
+    top: 2.63%;
+    left: 4.8%;
+    border-radius: 28px !important;
+    position: relative;
+
 }
